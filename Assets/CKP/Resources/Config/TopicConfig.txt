@@ -1,0 +1,163 @@
+[
+	{
+		"ID": "HydrogenationOperation6",
+		"Title": "需要对加氢车气瓶进行哪些检查（支持多选）",
+		"MultipleChoice": "true",
+		"RightAnswers": [
+			"瓶内余压要大于十公斤",
+			"气瓶要在检验有效期内"
+		],
+		"Options": [
+			"瓶内余压要大于十公斤",
+			"气瓶要在检验有效期内",
+			"瓶内余压要大于十五公斤",
+			"瓶内余压要大于二十公斤"
+		]
+	},
+	{
+		"ID": "HydrogenationOperation11",
+		"Title": "请选择加氢金额",
+		"MultipleChoice": "false",
+		"RightAnswers": [],
+		"Options": [
+			"100元",
+			"200元",
+			"300元"
+		]
+	},
+	{
+		"ID": "HydrogenationOperation18",
+		"Title": "需要记录的数据为什么",
+		"MultipleChoice": "true",
+		"RightAnswers": [
+			"加氢数据"
+		],
+		"Options": [
+			"加氢数据",
+			"气瓶瓶压"
+		]
+	},
+	{
+		"ID": "TTGasDischargeOperation1",
+		"Title": "当压力接近多少时关闭移动加氢车的出口总阀（支持多选）",
+		"MultipleChoice": "true",
+		"RightAnswers": [
+			"100bar"
+		],
+		"Options": [
+			"100bar",
+			"1000bar",
+			"10bar"
+		]
+	},
+	{
+		"ID": "TTGasDischargeOperation2",
+		"Title": "便携式氢气探测仪需要检测下列哪些地方（支持多选）",
+		"MultipleChoice": "true",
+		"RightAnswers": [
+			"软管",
+			"接头",
+			"各管束阀"
+		],
+		"Options": [
+			"软管",
+			"接头",
+			"各管束阀"
+		]
+	},
+	{
+		"ID": "GengHuanZhuangXieChe1",
+		"Title": "站内TT车压力，当压力到多少时表明此TT车需要更换（支持多选）",
+		"MultipleChoice": "true",
+		"RightAnswers": [
+			"50bar"
+		],
+		"Options": [
+			"50bar",
+			"60bar",
+			"70bar",
+			"80bar"
+		]
+	},
+	{
+		"ID": "GengHuanZhuangXieChe6",
+		"Title": "请选择需要挪开的物体移开警示牌、马凳和轮挡（支持多选）",
+		"MultipleChoice": "true",
+		"RightAnswers": [
+			"警示牌",
+			"马凳",
+			"轮挡"
+		],
+		"Options": [
+			"警示牌",
+			"马凳",
+			"轮挡"
+		]
+	},
+	{
+		"ID": "GengHuanZhuangXieChe8",
+		"Title": "接收新的移动加氢车时，需要检查哪些项（支持多选）",
+		"MultipleChoice": "true",
+		"RightAnswers": [
+			"是否泄漏",
+			"压力是否大于等于180公斤",
+			"容积是否大于等于26立方",
+			"车载灭火器是否完好",
+			"氢气瓶体是否在有效期内"
+		],
+		"Options": [
+			"是否泄漏",
+			"压力是否大于等于180公斤",
+			"容积是否大于等于26立方",
+			"车载灭火器是否完好",
+			"氢气瓶体是否在有效期内"
+		]
+	},
+	{
+		"ID": "GengHuanZhuangXieChe10",
+		"Title": "请选择需要放置的物体警示牌、马凳和轮挡（支持多选）",
+		"MultipleChoice": "true",
+		"RightAnswers": [
+			"警示牌",
+			"马凳",
+			"轮挡"
+		],
+		"Options": [
+			"警示牌",
+			"马凳",
+			"轮挡"
+		]
+	},
+	{
+		"ID": "GengHuanZhuangXieChe11",
+		"Title": "关于检查氢气软管的完整性下列说法正确的是（支持多选）",
+		"MultipleChoice": "true",
+		"RightAnswers": [
+			"检查软管是否变形",
+			"检查软管是否擦伤",
+			"检查软管是否磨损",
+			"如果软管有问题，需及时汇报并更换"
+		],
+		"Options": [
+			"检查软管是否变形",
+			"检查软管是否擦伤",
+			"检查软管是否磨损",
+			"如果软管有问题，需及时汇报并更换"
+		]
+	},
+	{
+		"ID": "GengHuanZhuangXieChe13",
+		"Title": "工作结束后，需要记录的数据有（支持多选）",
+		"MultipleChoice": "true",
+		"RightAnswers": [
+			"TT车的压力表",
+			"TT车的温度计读数"
+		],
+		"Options": [
+			"TT车的压力表",
+			"TT车的温度计读数",
+			"当天气温",
+			"当天天气"
+		]
+	}
+]

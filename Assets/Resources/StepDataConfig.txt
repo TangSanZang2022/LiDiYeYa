@@ -1,0 +1,615 @@
+[
+	{
+		"titleName": "一、工业互联网体系",
+		"type": "ImageContentPanel",
+		"name": "1.工业互联网定义",
+		"id": "1.工业互联网定义",
+		"describe": "Describe/1.1工业互联网定义.txt",
+		"soundPath": "ContentSound/1.1工业互联网定义.wav",
+		"imagePathArray": [
+			"ContentImage/1_1工业互联网定义01",
+			"ContentImage/1_1工业互联网定义02"
+		],
+		"VideoPath": "",
+		"posID": "",
+		"aniConfig": ""
+	},
+	{
+		"titleName": "一、工业互联网体系",
+		"type": "ImageContentPanel",
+		"name": "2.工业互联网内涵",
+		"id": "2.工业互联网内涵",
+		"describe": "Describe/1.2工业互联网内涵.txt",
+		"soundPath": "ContentSound/1.2工业互联网内涵.wav",
+		"imagePathArray": [
+			"ContentImage/1_2工业互联网内涵01",
+			"ContentImage/1_2工业互联网内涵02",
+			"ContentImage/1_2工业互联网内涵03",
+			"ContentImage/1_2工业互联网内涵04"
+		],
+		"VideoPath": "",
+		"posID": "",
+		"aniConfig": ""
+	},
+	{
+		"titleName": "一、工业互联网体系",
+		"type": "ImageContentPanel",
+		"name": "3.工业互联网与消费互联网",
+		"id": "3.工业互联网与消费互联网",
+		"describe": "Describe/1.3工业互联网与消费互联网.txt",
+		"soundPath": "ContentSound/1.3工业互联网与消费互联网.wav",
+		"imagePathArray": [
+			"ContentImage/1_3工业互联网与“两化”融合01"
+		],
+		"VideoPath": "",
+		"posID": "",
+		"aniConfig": ""
+	},
+	{
+		"titleName": "一、工业互联网体系",
+		"type": "ImageContentPanel",
+		"name": "4.工业互联网与“两化”融合",
+		"id": "4.工业互联网与“两化”融合",
+		"describe": "Describe/1.4工业互联网与“两化”融合.txt",
+		"soundPath": "ContentSound/1.4工业互联网与“两化”融合.wav",
+		"imagePathArray": [
+			"ContentImage/1_4工业互联网与消费互联网01",
+			"ContentImage/1_4工业互联网与消费互联网02"
+		],
+		"VideoPath": "",
+		"posID": "",
+		"aniConfig": ""
+	},
+	{
+		"titleName": "一、工业互联网体系",
+		"type": "ImageContentPanel",
+		"name": "5.工业互联网与智能制造",
+		"id": "5.工业互联网与智能制造",
+		"describe": "Describe/1.5工业互联网与智能制造.txt",
+		"soundPath": "ContentSound/1.5工业互联网与智能制造.wav",
+		"imagePathArray": [
+			"ContentImage/1_5工业互联网与智能制造01",
+			"ContentImage/1_5工业互联网与智能制造02"
+		],
+		"VideoPath": "",
+		"posID": "",
+		"aniConfig": ""
+	},
+	{
+		"titleName": "二、智能制造",
+		"type": "TextContentPanel",
+		"name": "1.智能制造概述",
+		"id": "1.智能制造概述",
+		"describe": "Describe/2.1智能制造概述.txt",
+		"soundPath": "ContentSound/2.1智能制造概述.wav",
+		"imagePathArray": [],
+		"VideoPath": "",
+		"posID": "2.1",
+		"aniConfig": ""
+	},
+	{
+		"titleName": "二、智能制造",
+		"type": "ImageContentPanel",
+		"name": "2.智能制造体系",
+		"id": "2.智能制造体系",
+		"describe": "Describe/2.2智能制造体系.txt",
+		"soundPath": "ContentSound/2.2智能制造体系.wav",
+		"imagePathArray": [
+			"ContentImage/2_2智能制造标准体系框架",
+			"ContentImage/2_2智能制造技术与服务体系"
+		],
+		"VideoPath": "",
+		"posID": "",
+		"aniConfig": ""
+	},
+	{
+		"titleName": "二、智能制造",
+		"type": "TextContentPanel",
+		"name": "3.智能制造关键技术",
+		"id": "3.智能制造关键技术",
+		"describe": "Describe/2.3智能制造关键技术.txt",
+		"soundPath": "ContentSound/2.3智能制造关键技术.wav",
+		"imagePathArray": [],
+		"VideoPath": "",
+		"posID": "2.3",
+		"aniConfig": ""
+	},
+	{
+		"titleName": "二、智能制造",
+		"type": "ImageContentPanel",
+		"name": "4.智能制造关键环节",
+		"id": "4.智能制造关键环节",
+		"describe": "Describe/2.4智能制造关键环节.txt",
+		"soundPath": "ContentSound/2.4智能制造关键环节.wav",
+		"imagePathArray": [
+			"ContentImage/2_4智能制造关键环节"
+		],
+		"VideoPath": "",
+		"posID": "",
+		"aniConfig": ""
+	},
+	{
+		"titleName": "二、智能制造",
+		"type": "VideoContentPanel",
+		"name": "5.智能工厂案例",
+		"id": "5.智能工厂案例",
+		"describe": "Describe/2.5智能工厂案例.txt",
+		"soundPath": "",
+		"imagePathArray": [],
+		"VideoPath": "生产流程视频.wmv",
+		"posID": "",
+		"aniConfig": ""
+	},
+	{
+		"titleName": "三、虚拟仿真",
+		"type": "ImageContentPanel",
+		"name": "三、虚拟仿真",
+		"id": "三、虚拟仿真",
+		"describe": "Describe/3.虚拟仿真.txt",
+		"soundPath": "ContentSound/3.虚拟仿真.wav",
+		"imagePathArray": [
+			"ContentImage/3虚拟仿真1"
+		],
+		"VideoPath": "",
+		"posID": "",
+		"aniConfig": ""
+	},
+	{
+		"titleName": "四、生产运作流程",
+		"type": "ImageContentPanel",
+		"name": "1.生产调度管理",
+		"id": "1.生产调度管理",
+		"describe": "Describe/4.1.生产调度管理.txt",
+		"soundPath": "ContentSound/4.1.生产调度管理.wav",
+		"imagePathArray": [
+			"ContentImage/4_1生产调度特殊计划处理",
+			"ContentImage/4_1生产调度管理模式",
+			"ContentImage/4_1生产调度计划层次1",
+			"ContentImage/4_1生产调度计划层次2"
+		],
+		"VideoPath": "",
+		"posID": "",
+		"aniConfig": ""
+	},
+	{
+		"titleName": "四、生产运作流程",
+		"type": "ImageContentPanel",
+		"name": "2.物料配送管理",
+		"id": "2.物料配送管理",
+		"describe": "Describe/4.2.物料配送管理.txt",
+		"soundPath": "ContentSound/4.2.物料配送管理.wav",
+		"imagePathArray": [
+			"ContentImage/4_2拉动式物料配送"
+		],
+		"VideoPath": "",
+		"posID": "",
+		"aniConfig": ""
+	},
+	{
+		"titleName": "四、生产运作流程",
+		"type": "ImageContentPanel",
+		"name": "●生产执行流程",
+		"id": "●生产执行流程",
+		"describe": "Describe/4.3.1生产执行流程.txt",
+		"soundPath": "ContentSound/4.3.1生产执行流程.wav",
+		"imagePathArray": [
+			"ContentImage/4_3_1生产执行场景案例"
+		],
+		"VideoPath": "",
+		"posID": "",
+		"aniConfig": ""
+	},
+	{
+		"titleName": "四、生产运作流程",
+		"type": "TextContentPanel",
+		"name": "●物料上线",
+		"id": "●物料上线",
+		"describe": "Describe/4.3.2物料上线.txt",
+		"soundPath": "ContentSound/4.3.2物料上线.wav",
+		"imagePathArray": [],
+		"VideoPath": "",
+		"posID": "4.3.2",
+		"aniReadyConfig": "ShangXianTuoPan&ZhuangPeiYuoPan&DaiJiaGong_Pan2|JiaGongQian_ShangXian&DaiJiaGongTuoPan&DaiJiaGong_Pan&YiJiaGong_ZhuangPeiYuoPan&JiaGongQian_ZhuangPei&YiJiaGong_ZhuangPei",
+		"aniConfig": "生产执行:ShangXian"
+	},
+	{
+		"titleName": "四、生产运作流程",
+		"type": "ImageContentPanel",
+		"name": "●生产加工/装配",
+		"id": "●生产加工/装配",
+		"describe": "Describe/4.3.3生产加工装配.txt",
+		"soundPath": "ContentSound/4.3.3生产加工装配.wav",
+		"imagePathArray": [
+			"ContentImage/4_3_3加工",
+			"ContentImage/4_3_3装配"
+		],
+		"VideoPath": "",
+		"posID": "4.3.3",
+		"aniReadyConfig": "YiJiaGong_JiaGong&DaiJiaGong_Pan2&DaiJiaGong_JiaGong&DaiJiaGongTuoPan&ZhuangPeiYuoPan|YiZhiJian_TuoPan&YiJiaGong_ZhuangPeiYuoPan&YiJiaGong_XiaXian&JiaGongQian_JiaGong&DaiJiaGong_Pan&JiaGongQian_ShangXian&JiaGongQian_ZhuangPei&YiJiaGong_ZhuangPei&ShangXianTuoPan&ZhiJianTuoPan",
+		"aniConfig": "生产执行:JiaGong"
+	},
+	{
+		"titleName": "四、生产运作流程",
+		"type": "ImageContentPanel",
+		"name": "●质量检验",
+		"id": "●质量检验",
+		"describe": "Describe/4.3.4质量检验.txt",
+		"soundPath": "ContentSound/4.3.4质量检验.wav",
+		"imagePathArray": [
+			"ContentImage/4_3_4质量检验"
+		],
+		"VideoPath": "",
+		"posID": "4.3.4",
+		"aniReadyConfig": "YiZhiJian&ZhiJian_JiQi&ZhiJianTuoPan2|YiZhiJian_TuoPan&YiJiaGong_ZhiJian&YiJiaGong_XiaXian&JiaGongQian_ShangXian&ZhiJianTuoPan",
+		"aniConfig": "生产执行:ZhiJian"
+	},
+	{
+		"titleName": "四、生产运作流程",
+		"type": "ImageContentPanel",
+		"name": "●生产报工",
+		"id": "●生产报工",
+		"describe": "Describe/4.3.5生产报工.txt",
+		"soundPath": "ContentSound/4.3.5生产报工.wav",
+		"imagePathArray": [
+			"ContentImage/4_3_5生产报工"
+		],
+		"VideoPath": "",
+		"posID": "",
+		"aniConfig": ""
+	},
+	{
+		"titleName": "四、生产运作流程",
+		"type": "ImageContentPanel",
+		"name": "●产品下线",
+		"id": "●产品下线",
+		"describe": "Describe/4.3.6产品下线.txt",
+		"soundPath": "ContentSound/4.3.6产品下线.wav",
+		"imagePathArray": [
+			"ContentImage/4_3_6产品下线"
+		],
+		"VideoPath": "",
+		"posID": "4.3.6",
+		"aniReadyConfig": "YiZhiJian&ShangXianTuoPan&ZhuangPeiYuoPan&ZhiJianTuoPan&YiJiaGong_JiaGong&YiZhiJian_TuoPan&DaiJiaGong_Pan2&DaiJiaGong_JiaGong|YiJiaGong_ZhuangPeiYuoPan&YiJiaGong_ZhiJian&ZhiJian_JiQi&YiJiaGong_XiaXian&JiaGongQian_JiaGong&DaiJiaGong_Pan&JiaGongQian_ShangXian&JiaGongQian_ZhuangPei&YiJiaGong_ZhuangPei&ZhiJianTuoPan2&DaiJiaGongTuoPan",
+		"aniConfig": "生产执行:XiaXian"
+	},
+	{
+		"titleName": "四、生产运作流程",
+		"type": "ImageContentPanel",
+		"name": "4.产品入库",
+		"id": "4.产品入库",
+		"describe": "Describe/4.4.产品入库.txt",
+		"soundPath": "ContentSound/4.4.产品入库.wav",
+		"imagePathArray": [
+			"ContentImage/4_4产品入库"
+		],
+		"VideoPath": "",
+		"posID": "4.4",
+		"aniReadyConfig": "Box1&Box2&Box3|BoxMove&BoxDown1&BoxDown2&BoxDown3&BoxChuKu",
+		"aniConfig": "生产运作流程:RuKu"
+	},
+	{
+		"titleName": "四、生产运作流程",
+		"type": "ImageContentPanel",
+		"name": "5.产品出库、发货",
+		"id": "5.产品出库、发货",
+		"describe": "Describe/4.5.产品出库发货.txt",
+		"soundPath": "ContentSound/4.5.产品出库发货.wav",
+		"imagePathArray": [
+			"ContentImage/4_5成品出库发货"
+		],
+		"VideoPath": "",
+		"posID": "4.5",
+		"aniReadyConfig": "BoxDown1&BoxDown2&BoxDown3|Box1&Box2&Box3&BoxMove&BoxChuKu",
+		"aniConfig": "生产运作流程:ChuKu"
+	},
+	{
+		"titleName": "五、关键设备",
+		"type": "TextContentPanel",
+		"name": "●物流仓储设备",
+		"id": "●物流仓储设备",
+		"describe": "Describe/5.1.1物流仓储设备.txt",
+		"soundPath": "ContentSound/5.1.1物流仓储设备.wav",
+		"imagePathArray": [],
+		"VideoPath": "",
+		"posID": "5.1.1",
+		"aniConfig": ""
+	},
+	{
+		"titleName": "五、关键设备",
+		"type": "ImageContentPanel",
+		"name": "●货架",
+		"id": "●货架",
+		"describe": "Describe/5.1.2货架.txt",
+		"soundPath": "ContentSound/5.1.2货架.wav",
+		"imagePathArray": [
+			"ContentImage/5_1_2货架1",
+			"ContentImage/5_1_2货架2"
+		],
+		"VideoPath": "",
+		"posID": "5.1.2",
+		"aniConfig": ""
+	},
+	{
+		"titleName": "五、关键设备",
+		"type": "ImageContentPanel",
+		"name": "●堆高车",
+		"id": "●堆高车",
+		"describe": "Describe/5.1.3堆高车.txt",
+		"soundPath": "ContentSound/5.1.3堆高车.wav",
+		"imagePathArray": [
+			"ContentImage/5_1_3堆高车"
+		],
+		"VideoPath": "",
+		"posID": "5.1.3",
+		"aniReadyConfig": "DuiGaoChe|DuiGaoCheAni",
+		"aniConfig": "堆高车:DuiGaoChe"
+	},
+	{
+		"titleName": "五、关键设备",
+		"type": "ImageContentPanel",
+		"name": "●搬运车",
+		"id": "●搬运车",
+		"describe": "Describe/5.1.4搬运车.txt",
+		"soundPath": "ContentSound/5.1.4搬运车.wav",
+		"imagePathArray": [
+			"ContentImage/5_1_4agv的类型1",
+			"ContentImage/5_1_4agv的类型2",
+			"ContentImage/5_1_4搬运车"
+		],
+		"VideoPath": "",
+		"posID": "",
+		"aniConfig": ""
+	},
+	{
+		"titleName": "五、关键设备",
+		"type": "ImageContentPanel",
+		"name": "●输送设备",
+		"id": "●输送设备",
+		"describe": "Describe/5.1.5输送设备.txt",
+		"soundPath": "ContentSound/5.1.5输送设备.wav",
+		"imagePathArray": [
+			"ContentImage/5_1_5输送设备1",
+			"ContentImage/5_1_5输送设备2",
+			"ContentImage/5_1_5输送设备3"
+		],
+		"VideoPath": "",
+		"posID": "5.1.5",
+		"aniReadyConfig": "KunLunShuSongXian&BeiSuSHuSongXian|null",
+		"aniConfig": "运输设备:YunShuSheBei"
+	},
+	{
+		"titleName": "五、关键设备",
+		"type": "ImageContentPanel",
+		"name": "2.工业机器人",
+		"id": "2.工业机器人",
+		"describe": "Describe/5.2.工业机器人.txt",
+		"soundPath": "ContentSound/5.2.工业机器人.wav",
+		"imagePathArray": [
+			"ContentImage/5_2工业机器人1",
+			"ContentImage/5_2工业机器人2"
+		],
+		"VideoPath": "",
+		"posID": "",
+		"aniConfig": ""
+	},
+	{
+		"titleName": "五、关键设备",
+		"type": "TextContentPanel",
+		"name": "●CNC简介",
+		"id": "●CNC简介",
+		"describe": "Describe/5.3.1CNC简介.txt",
+		"soundPath": "ContentSound/5.3.1CNC简介.wav",
+		"imagePathArray": [],
+		"VideoPath": "",
+		"posID": "5.3.1",
+		"aniConfig": ""
+	},
+	{
+		"titleName": "五、关键设备",
+		"type": "ImageContentPanel",
+		"name": "●CNC车床",
+		"id": "●CNC车床",
+		"describe": "Describe/5.3.2CNC车床.txt",
+		"soundPath": "ContentSound/5.3.2CNC车床.wav",
+		"imagePathArray": [
+			"ContentImage/5_3_2cnc车床"
+		],
+		"VideoPath": "",
+		"posID": "",
+		"aniConfig": ""
+	},
+	{
+		"titleName": "五、关键设备",
+		"type": "ImageContentPanel",
+		"name": "●CNC磨床",
+		"id": "●CNC磨床",
+		"describe": "Describe/5.3.3CNC磨床.txt",
+		"soundPath": "ContentSound/5.3.3CNC磨床.wav",
+		"imagePathArray": [
+			"ContentImage/5_3_3cnc磨床"
+		],
+		"VideoPath": "",
+		"posID": "",
+		"aniConfig": ""
+	},
+	{
+		"titleName": "五、关键设备",
+		"type": "ImageContentPanel",
+		"name": "●CNC钻床",
+		"id": "●CNC钻床",
+		"describe": "Describe/5.3.4CNC钻床.txt",
+		"soundPath": "ContentSound/5.3.4CNC钻床.wav",
+		"imagePathArray": [
+			"ContentImage/5_3_4cnc钻床"
+		],
+		"VideoPath": "",
+		"posID": "",
+		"aniConfig": ""
+	},
+	{
+		"titleName": "五、关键设备",
+		"type": "ImageContentPanel",
+		"name": "●CNC铣床",
+		"id": "●CNC铣床",
+		"describe": "Describe/5.3.5CNC铣床.txt",
+		"soundPath": "ContentSound/5.3.5CNC铣床.wav",
+		"imagePathArray": [
+			"ContentImage/5_3_5cnc铣床"
+		],
+		"VideoPath": "",
+		"posID": "",
+		"aniConfig": ""
+	},
+	{
+		"titleName": "五、关键设备",
+		"type": "TextContentPanel",
+		"name": "●检测设备种类",
+		"id": "●检测设备种类",
+		"describe": "Describe/5.4.1检测设备种类.txt",
+		"soundPath": "ContentSound/5.4.1检测设备种类.wav",
+		"imagePathArray": [],
+		"VideoPath": "",
+		"posID": "5.4.1",
+		"aniConfig": ""
+	},
+	{
+		"titleName": "五、关键设备",
+		"type": "ImageContentPanel",
+		"name": "●检测设备分类",
+		"id": "●检测设备分类",
+		"describe": "Describe/5.4.2检测设备分类.txt",
+		"soundPath": "ContentSound/5.4.2检测设备分类.wav",
+		"imagePathArray": [
+			"ContentImage/5_4_2质量检测设备1",
+			"ContentImage/5_4_2质量检测设备2"
+		],
+		"VideoPath": "",
+		"posID": "",
+		"aniConfig": ""
+	},
+	{
+		"titleName": "五、关键设备",
+		"type": "ImageContentPanel",
+		"name": "5.数据采集设备",
+		"id": "5.数据采集设备",
+		"describe": "Describe/5.5数据采集设备.txt",
+		"soundPath": "ContentSound/5.5数据采集设备.wav",
+		"imagePathArray": [
+			"ContentImage/5_5数据采集器"
+		],
+		"VideoPath": "",
+		"posID": "",
+		"aniConfig": ""
+	},
+	{
+		"titleName": "六、制造执行系统MES",
+		"type": "VideoContentPanel",
+		"name": "六、制造执行系统MES",
+		"id": "六、制造执行系统MES",
+		"describe": "Describe/6.制造执行系统MES.txt",
+		"soundPath": "",
+		"imagePathArray": [],
+		"VideoPath": "mes视频.wmv",
+		"posID": "",
+		"aniConfig": ""
+	},
+	{
+		"titleName": "七、生产控制中心PCT",
+		"type": "ImageContentPanel",
+		"name": "1.PTC简介",
+		"id": "1.PTC简介",
+		"describe": "Describe/7.1PTC简介.txt",
+		"soundPath": "ContentSound/7.1PTC简介.wav",
+		"imagePathArray": [
+			"ContentImage/7_1pct技术与服务体系"
+		],
+		"VideoPath": "",
+		"posID": "",
+		"aniConfig": ""
+	},
+	{
+		"titleName": "七、生产控制中心PCT",
+		"type": "ImageContentPanel",
+		"name": "2.看板管理",
+		"id": "2.看板管理",
+		"describe": "Describe/7.2看板管理.txt",
+		"soundPath": "ContentSound/7.2看板管理.wav",
+		"imagePathArray": [
+			"ContentImage/7_2生产管理看板"
+		],
+		"VideoPath": "",
+		"posID": "",
+		"aniConfig": ""
+	},
+	{
+		"titleName": "七、生产控制中心PCT",
+		"type": "ImageContentPanel",
+		"name": "●进度管理",
+		"id": "●进度管理",
+		"describe": "Describe/7.3.1进度管理.txt",
+		"soundPath": "ContentSound/7.3.1进度管理.wav",
+		"imagePathArray": [
+			"ContentImage/7_3_1进度管理看板"
+		],
+		"VideoPath": "",
+		"posID": "",
+		"aniConfig": ""
+	},
+	{
+		"titleName": "七、生产控制中心PCT",
+		"type": "ImageContentPanel",
+		"name": "●质量管理",
+		"id": "●质量管理",
+		"describe": "Describe/7.3.2质量管理.txt",
+		"soundPath": "ContentSound/7.3.2质量管理.wav",
+		"imagePathArray": [
+			"ContentImage/7_3_2质量管理看板"
+		],
+		"VideoPath": "",
+		"posID": "",
+		"aniConfig": ""
+	},
+	{
+		"titleName": "七、生产控制中心PCT",
+		"type": "ImageContentPanel",
+		"name": "●设备管理",
+		"id": "●设备管理",
+		"describe": "Describe/7.3.3设备管理.txt",
+		"soundPath": "ContentSound/7.3.3设备管理.wav",
+		"imagePathArray": [
+			"ContentImage/7_3_3设备管理看板"
+		],
+		"VideoPath": "",
+		"posID": "",
+		"aniConfig": ""
+	},
+	{
+		"titleName": "七、生产控制中心PCT",
+		"type": "ImageContentPanel",
+		"name": "●物料管理",
+		"id": "●物料管理",
+		"describe": "Describe/7.3.4物料管理.txt",
+		"soundPath": "ContentSound/7.3.4物料管理.wav",
+		"imagePathArray": [
+			"ContentImage/7_3_4物料管理看板"
+		],
+		"VideoPath": "",
+		"posID": "",
+		"aniConfig": ""
+	},
+	{
+		"titleName": "七、生产控制中心PCT",
+		"type": "ImageContentPanel",
+		"name": "●异常管理",
+		"id": "●异常管理",
+		"describe": "Describe/7.3.5异常管理.txt",
+		"soundPath": "ContentSound/7.3.5异常管理.wav",
+		"imagePathArray": [
+			"ContentImage/7_3_5异常管理流程",
+			"ContentImage/7_3_5异常管理看板"
+		],
+		"VideoPath": "",
+		"posID": "",
+		"aniConfig": ""
+	}
+]

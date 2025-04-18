@@ -1,0 +1,41 @@
+{
+  "uiInfoList": [
+  {
+      "panelTypeString": "StartSceneMainPanel",
+      "path": "UIPanel/StartSceneMainPanel"
+    },
+    {
+      "panelTypeString": "StudyMainPanel",
+      "path": "UIPanel/StudyMainPanel"
+    },
+    {
+      "panelTypeString": "TextContentPanel",
+      "path": "UIPanel/TextContentPanel"
+    },
+    {
+      "panelTypeString": "ImageContentPanel",
+      "path": "UIPanel/ImageContentPanel"
+    },
+    {
+      "panelTypeString": "VideoContentPanel",
+      "path": "UIPanel/VideoContentPanel"
+    },
+    {
+      "panelTypeString": "ExitPanel",
+      "path": "ExitPanel"
+    },
+	{
+      "panelTypeString": "TrainPanel",
+      "path": "Prefab/TrainPanel"
+    },
+    {
+      "panelTypeString": "AppraisalPanel",
+      "path": "Prefab/AppraisalPanel"
+    },
+    {
+      "panelTypeString": "ReadyPanel",
+      "path": "Prefab/ReadyPanel"
+    }
+  ]
+
+}

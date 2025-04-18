@@ -1,0 +1,346 @@
+[
+	{
+		"Name": "一、工业互联网认知",
+		"index": 0,
+		"id": "一、工业互联网认知",
+		"ParentIndex": -1,
+		"childTreeViewData": [
+			{
+				"Name": "1.工业互联网定义",
+				"index": 1,
+				"id": "1.工业互联网定义",
+				"ParentIndex": 0
+			},
+			{
+				"Name": "2.工业互联网内涵",
+				"index": 2,
+				"id": "2.工业互联网内涵",
+				"ParentIndex": 0
+			},
+			{
+				"Name": "3.工业互联网与消费互联网",
+				"index": 2,
+				"id": "3.工业互联网与消费互联网",
+				"ParentIndex": 0
+			},
+			{
+				"Name": "4.工业互联网与“两化”融合",
+				"index": 2,
+				"id": "4.工业互联网与“两化”融合",
+				"ParentIndex": 0
+			},
+			{
+				"Name": "5.工业互联网与智能制造",
+				"index": 2,
+				"id": "5.工业互联网与智能制造",
+				"ParentIndex": 0
+			}
+		]
+	},
+	{
+		"Name": "二、智能制造",
+		"index": 1,
+		"id": "二、智能制造",
+		"ParentIndex": -1,
+		"childTreeViewData": [
+			{
+				"Name": "1.智能制造概述",
+				"index": 4,
+				"id": "1.智能制造概述",
+				"ParentIndex": 3
+			},
+			{
+				"Name": "2.智能制造体系",
+				"index": 5,
+				"id": "2.智能制造体系",
+				"ParentIndex": 3
+			},
+			{
+				"Name": "3.智能制造关键技术",
+				"index": 6,
+				"id": "3.智能制造关键技术",
+				"ParentIndex": 3
+			},
+			{
+				"Name": "4.智能制造关键环节",
+				"index": 7,
+				"id": "4.智能制造关键环节",
+				"ParentIndex": 3
+			},
+			{
+				"Name": "5.智能工厂案例",
+				"index": 8,
+				"id": "5.智能工厂案例",
+				"ParentIndex": 3
+			}
+		]
+	},
+	{
+		"Name": "三、虚拟仿真",
+		"index": 9,
+		"id": "三、虚拟仿真",
+		"ParentIndex": -1,
+		"childTreeViewData": []
+	},
+	{
+		"Name": "四、生产运作流程",
+		"index": 10,
+		"id": "四、生产运作流程",
+		"ParentIndex": -1,
+		"childTreeViewData": [
+			{
+				"Name": "1.生产调度管理",
+				"index": 4,
+				"id": "1.生产调度管理",
+				"ParentIndex": 3
+			},
+			{
+				"Name": "2.物料配送管理",
+				"index": 5,
+				"id": "2.物料配送管理",
+				"ParentIndex": 3
+			},
+			{
+				"Name": "3.生产执行",
+				"index": 6,
+				"id": "3.生产执行",
+				"ParentIndex": 3,
+				"childTreeViewData": [
+					{
+						"Name": "●生产执行流程",
+						"index": 4,
+						"id": "●生产执行流程",
+						"ParentIndex": 3
+					},
+					{
+						"Name": "●物料上线",
+						"index": 5,
+						"id": "●物料上线",
+						"ParentIndex": 3
+					},
+					{
+						"Name": "●生产加工/装配",
+						"index": 6,
+						"id": "●生产加工/装配",
+						"ParentIndex": 3
+					},
+					{
+						"Name": "●质量检验",
+						"index": 6,
+						"id": "●质量检验",
+						"ParentIndex": 3
+					},
+					{
+						"Name": "●生产报工",
+						"index": 6,
+						"id": "●生产报工",
+						"ParentIndex": 3
+					},
+					{
+						"Name": "●产品下线",
+						"index": 6,
+						"id": "●产品下线",
+						"ParentIndex": 3
+					}
+				]
+			},
+			{
+				"Name": "4.产品入库",
+				"index": 5,
+				"id": "4.产品入库",
+				"ParentIndex": 3
+			},
+			{
+				"Name": "5.产品出库、发货",
+				"index": 5,
+				"id": "5.产品出库、发货",
+				"ParentIndex": 3
+			}
+		]
+	},
+	{
+		"Name": "五、关键设备",
+		"index": 10,
+		"id": "五、关键设备",
+		"ParentIndex": -1,
+		"childTreeViewData": [
+			{
+				"Name": "1.物流仓储设备",
+				"index": 10,
+				"id": "1.物流仓储设备",
+				"ParentIndex": -1,
+				"childTreeViewData": [
+					{
+						"Name": "●物流仓储设备",
+						"index": 4,
+						"id": "●物流仓储设备",
+						"ParentIndex": 3
+					},
+					{
+						"Name": "●货架",
+						"index": 5,
+						"id": "●货架",
+						"ParentIndex": 3
+					},
+					{
+						"Name": "●堆高车",
+						"index": 5,
+						"id": "●堆高车",
+						"ParentIndex": 3
+					},
+					{
+						"Name": "●搬运车",
+						"index": 5,
+						"id": "●搬运车",
+						"ParentIndex": 3
+					},
+					{
+						"Name": "●输送设备",
+						"index": 5,
+						"id": "●输送设备",
+						"ParentIndex": 3
+					}
+				]
+			},
+			{
+				"Name": "2.工业机器人",
+				"index": 10,
+				"id": "2.工业机器人",
+				"ParentIndex": -1,
+				"childTreeViewData": []
+			},
+			{
+				"Name": "3.CNC机床",
+				"index": 10,
+				"id": "3.CNC机床",
+				"ParentIndex": -1,
+				"childTreeViewData": [
+					{
+						"Name": "●CNC简介",
+						"index": 4,
+						"id": "●CNC简介",
+						"ParentIndex": 3
+					},
+					{
+						"Name": "●CNC车床",
+						"index": 5,
+						"id": "●CNC车床",
+						"ParentIndex": 3
+					},
+					{
+						"Name": "●CNC磨床",
+						"index": 5,
+						"id": "●CNC磨床",
+						"ParentIndex": 3
+					},
+					{
+						"Name": "●CNC钻床",
+						"index": 5,
+						"id": "●CNC钻床",
+						"ParentIndex": 3
+					},
+					{
+						"Name": "●CNC铣床",
+						"index": 5,
+						"id": "●CNC铣床",
+						"ParentIndex": 3
+					}
+				]
+			},
+			{
+				"Name": "4.质量检测设备",
+				"index": 10,
+				"id": "4.质量检测设备",
+				"ParentIndex": -1,
+				"childTreeViewData": [
+					{
+						"Name": "●检测设备种类",
+						"index": 4,
+						"id": "●检测设备种类",
+						"ParentIndex": 3
+					},
+					{
+						"Name": "●检测设备分类",
+						"index": 5,
+						"id": "●检测设备分类",
+						"ParentIndex": 3
+					}
+				]
+			},
+			{
+				"Name": "5.数据采集设备",
+				"index": 10,
+				"id": "5.数据采集设备",
+				"ParentIndex": -1,
+				"childTreeViewData": []
+			}
+		]
+	},
+	{
+		"Name": "六、制造执行系统MES",
+		"index": 10,
+		"id": "六、制造执行系统MES",
+		"ParentIndex": -1,
+		"childTreeViewData": []
+	},
+	{
+		"Name": "七、生产控制中心PCT",
+		"index": 11,
+		"id": "七、生产控制中心PCT",
+		"ParentIndex": 10,
+		"childTreeViewData": [
+			{
+				"Name": "1.PTC简介",
+				"index": 10,
+				"id": "1.PTC简介",
+				"ParentIndex": -1,
+				"childTreeViewData": []
+			},
+			{
+				"Name": "2.看板管理",
+				"index": 10,
+				"id": "2.看板管理",
+				"ParentIndex": -1,
+				"childTreeViewData": []
+			},
+			{
+				"Name": "3.PTC看板内容",
+				"index": 10,
+				"id": "3.PTC看板内容",
+				"ParentIndex": -1,
+				"childTreeViewData": [
+					{
+						"Name": "●进度管理",
+						"index": 4,
+						"id": "●进度管理",
+						"ParentIndex": 3
+					},
+					{
+						"Name": "●质量管理",
+						"index": 5,
+						"id": "●质量管理",
+						"ParentIndex": 3
+					},
+					{
+						"Name": "●设备管理",
+						"index": 5,
+						"id": "●设备管理",
+						"ParentIndex": 3
+					},
+					{
+						"Name": "●物料管理",
+						"index": 5,
+						"id": "●物料管理",
+						"ParentIndex": 3
+					},
+					{
+						"Name": "●异常管理",
+						"index": 5,
+						"id": "●异常管理",
+						"ParentIndex": 3
+					}
+				]
+			}
+		]
+	}
+]

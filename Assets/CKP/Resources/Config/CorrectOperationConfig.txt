@@ -1,0 +1,39 @@
+[
+	{
+		"TrainingProjectStepID":"a2",
+		"HotPointOrder": [
+			{
+				"ToolID": "Tool03",
+				"HotPointID": "Test03"
+			},
+			{
+				"ToolID": "Tool02",
+				"HotPointID": "Test03"
+			}
+		],
+		"CorrectClickableHotPointValueState": [
+			{
+				"ClickableHotPointValueID": "Test03",
+				"ClickableHotPointValueState": "close"
+			}
+		],
+		"CorrectReadingValue": [
+			{
+				"Comment": "打开氮气管路阀",
+				"MeterID": "Meter1",
+				"MeterReadingValue": [
+					-1,
+					201
+				]
+			},
+			{
+				"Comment": "打开氮气管路阀",
+				"MeterID": "Meter1",
+				"MeterReadingValue": [
+					-1,
+					201
+				]
+			}
+		]
+	}
+]

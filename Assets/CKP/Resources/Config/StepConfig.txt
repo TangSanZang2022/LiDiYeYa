@@ -1,0 +1,111 @@
+{
+	"TrainingProjects": [
+		{
+			"Comment": "a",
+			"CommentForAppraisal": "",
+			"TrainingName": "a",
+			"CamPosRot": [
+				12,
+				3,
+				-7,
+				30,
+				0
+			],
+			"Steps": [
+				{
+					"StepIndex": 1,
+					"StepName": "请前往报警灯处确认故障原因",
+					"HintText": "靠近实训对象点击对象，点击对象出口总阀",
+					"CamPos": [
+						10,
+						10,
+						10
+					],
+					"TrainToolID": [
+						"Tool01",
+						"Tool02"
+					],
+					"TrainHotPointID": [
+						"Test01",
+						"Test02"
+					],
+					"CorrectHotPointID": [
+						{
+							"ToolID": "Tool01",
+							"HotPointID": "Test01"
+						},
+						{
+							"ToolID": "Tool02",
+							"HotPointID": "Test02"
+						}
+					],
+					"CorrectClickableHotPointValueState": [],
+					"SelectableHotPointIDForTrain":
+					[
+					"Test03"
+					],
+					"CorrectReadingValue": [],
+					"SelectableToolID": [
+						"Tool03",
+						"Tool02",
+						"Tool01"
+					],
+					"SelectableHotPointID": [
+						"Test01",
+						"Test02",
+						"Test03"
+					],
+					"SelectableHotPointValueState": [],
+					"Score": 40,
+					"AniName": [],
+					"AniTime": 1,
+					"ShowHideObjID": []
+				},
+				{
+					"StepIndex": 2,
+					"StepName": "请手动打开管道放散阀直到内部的管道压力从安全放散测流出，直至压力表读数为50Mbar左右，故障解除完后关闭手动放散阀门（请注意卸气柜压力表度数）",
+					"HintText": "靠近实训对象点击对象，点击对象出口总阀",
+					"CamPos": [
+						10,
+						10,
+						10
+					],
+					"TrainToolID": [
+						"Tool03",
+						"Tool02"
+					],
+					"TrainHotPointID": [
+						"Test03",
+						"Test03"
+					],
+					"CorrectHotPointID": [],
+					"CorrectClickableHotPointValueState": [],
+					"CorrectReadingValue": [
+						{
+							"MeterID": "Meter1",
+							"MeterReadingValue": [
+								-1,
+								60
+							]
+						}
+					],
+					"SelectableHotPointID": [
+						"Test03",
+						"Test02",
+						"Test01"
+					],
+					"SelectableToolID": [
+						"Tool03",
+						"Tool02",
+						"Tool01"
+					],
+					"SelectableHotPointValueState": [],
+					"Score": 50,
+					"AniName": [],
+					"AniTime": 1,
+					"ShowHideObjID": []
+				}
+			]
+		}
+	]
+}
